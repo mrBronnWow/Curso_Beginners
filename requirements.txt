@@ -1,5 +1,5 @@
-jupyter-book
-matplotlib
-numpy
+sphinx
 pandas
-ghp-import
+matplotlib
+quantecon
+jupyter-book
