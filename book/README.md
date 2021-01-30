@@ -1,6 +1,7 @@
 
 # Bienvenidos
 Bienvenidos al curso basico de programacion en python para ASD.
+https://mrbronnwow.github.io/Curso_Beginners/
 
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.altran.com/as-content/themes/altran/images/logo.svg" alt="" width="547" height="174" />
 

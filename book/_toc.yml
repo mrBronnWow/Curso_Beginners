@@ -1,4 +1,9 @@
 file: README.md
 sections:
 - file: 0_1_intro_to_python_es.ipynb
+- file: 01_SF_Salaries_Exercise.ipynb
+- file: Ejercicio_final_resuelto.ipynb
+- file: Ejercicios_de_estructuras_basicas_con_solucion.ipynb
+- file: Introduccion_a_pandas.ipynb
+
 
